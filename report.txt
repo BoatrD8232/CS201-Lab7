@@ -1,0 +1,581 @@
+NAME                     TYPE      BREED                              SEX                 IN AGE    CURR AGE  
+A874518                  Bird      Waxwing                            Unknown             1.00      2.00      
+Torby Girl               Cat       Domestic Shorthair                 Spayed Female       14.00     15.00     
+*Butters                 Cat       Domestic Shorthair                 Neutered Male       4.00      5.00      
+Katniss Everbean Horton  Cat       Domestic Shorthair                 Spayed Female       0.00      1.00      
+A890645                  Cat       Siamese Mix                        Spayed Female       0.00      1.00      
+A900468                  Cat       Domestic Shorthair                 Unknown             0.00      0.00      
+A900469                  Cat       Domestic Shorthair                 Unknown             0.00      0.00      
+*Raja                    Cat       Domestic Shorthair Mix             Intact Female       0.00      0.00      
+A904825                  Cat       Domestic Shorthair Mix             Intact Female       0.00      0.00      
+Shalimar                 Dog       Pekingese                          Unknown             1.00      2.00      
+Zeus                     Dog       Doberman Pinsch Mix                Intact Male         2.00      3.00      
+Fb Mcgee                 Dog       Mastiff Mix                        Neutered Male       2.00      3.00      
+A894378                  Dog       Cairn Terrier/Chihuahua Shorthair  Spayed Female       2.00      3.00      
+*Snow                    Dog       Great Pyrenees                     Neutered Male       1.00      1.00      
+A903014                  Dog       American Bulldog Mix               Unknown             5.00      5.00      
+Perla                    Dog       Siberian Husky                     Intact Female       2.00      2.00      
+A896559                  Other     Coyote                             Unknown             2.00      2.00      
+
+
+
+NAME                     TYPE      BREED                              SEX                 IN AGE    CURR AGE  
+Lucky                    Dog       Labrador Retriever Mix             Intact Male         0.00      1.00      
+Lucky                    Dog       Labrador Retriever Mix             Neutered Male       0.00      1.00      
+Lucky                    Dog       Labrador Retriever Mix             Spayed Female       0.00      1.00      
+Lucky                    Dog       Pit Bull Mix                       Intact Male         2.00      3.00      
+Lucky                    Dog       Australian Shepherd/German ShepherdSpayed Female       2.00      3.00      
+Lucky                    Dog       Pug                                Neutered Male       2.00      3.00      
+Lucky                    Dog       German Shepherd Mix                Intact Male         2.00      3.00      
+Lucky                    Dog       Pit Bull Mix                       Intact Female       2.00      3.00      
+Lucky                    Dog       Pit Bull                           Neutered Male       2.00      2.00      
+Lucky                    Dog       Pit Bull                           Spayed Female       2.00      2.00      
+Lucky                    Dog       Pit Bull/Labrador Retriever        Spayed Female       3.00      3.00      
+Lucky                    Dog       Basset Hound                       Neutered Male       4.00      5.00      
+Lucky                    Dog       Pomeranian                         Intact Female       5.00      6.00      
+Lucky                    Dog       Pit Bull Mix                       Intact Male         9.00      10.00     
+Lucky                    Dog       Chihuahua Shorthair/Beagle         Neutered Male       11.00     12.00     
+
+
+
+NAME                     TYPE      BREED                              SEX                 IN AGE    CURR AGE  
+A870466                  Bird      Cockatiel                          Unknown             3.00      4.00      
+*Dreidel                 Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Fir                     Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Altair                   Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+Phinneas                 Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Ashe                     Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Ray                      Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A871586                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A871601                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A871610                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Moka                     Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Kimi                    Cat       Domestic Longhair                  Intact Male         2.00      3.00      
+*Patsy                   Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*The Grinch              Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Malika                   Cat       Domestic Shorthair Mix             Spayed Female       1.00      2.00      
+*Woody                   Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Pixie                    Cat       Domestic Shorthair                 Intact Female       1.00      2.00      
+Olive                    Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A871766                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A871761                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+*Scrunchy                Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+*Scarlett                Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Greyjoy                 Cat       Domestic Shorthair                 Neutered Male       8.00      9.00      
+A870304                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A870303                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A870302                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Onyx                     Cat       Domestic Shorthair Mix             Spayed Female       5.00      6.00      
+Sushi                    Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Champagne               Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+*Caviar                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A871791                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+*Zenith                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Chipmunk                 Cat       Domestic Shorthair                 Spayed Female       2.00      3.00      
+Mars                     Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Lila                     Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+Toast                    Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Blue                     Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Bootsie                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Gatsby                   Cat       Domestic Shorthair                 Neutered Male       3.00      4.00      
+A868813                  Cat       Siamese                            Neutered Male       1.00      2.00      
+A868785                  Cat       Domestic Shorthair Mix             Neutered Male       1.00      2.00      
+Pequeno                  Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+*Fudge                   Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Toffee                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A872074                  Cat       Domestic Shorthair                 Spayed Female       2.00      3.00      
+A870476                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A872075                  Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+A870510                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Nori                    Cat       Domestic Shorthair Mix             Neutered Male       1.00      2.00      
+*Goma                    Cat       Domestic Shorthair Mix             Neutered Male       1.00      2.00      
+Willoughby               Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+Simon                    Cat       Domestic Shorthair                 Neutered Male       3.00      4.00      
+Peri                     Cat       Domestic Shorthair                 Spayed Female       9.00      10.00     
+A871760                  Cat       Domestic Shorthair                 Intact Female       1.00      2.00      
+*Comet                   Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+*Mandarin                Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+*Captain                 Cat       Domestic Longhair                  Neutered Male       1.00      2.00      
+*Mr. Chonk               Cat       Domestic Shorthair                 Neutered Male       3.00      4.00      
+A872029                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Mango                    Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Sushi                    Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Snickerdoodle           Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Benji                    Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A872184                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Marcy                    Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+A872007                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A871989                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A872232                  Cat       Domestic Shorthair                 Spayed Female       2.00      3.00      
+*Latke                   Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A871427                  Cat       Domestic Shorthair Mix             Neutered Male       1.00      2.00      
+A872014                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Jerry                    Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+*Domino                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Beast Boy                Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A872183                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Juniper                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Theodore                 Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Sweetness                Cat       Domestic Longhair                  Spayed Female       1.00      2.00      
+Liono                    Cat       Domestic Longhair                  Neutered Male       1.00      2.00      
+A872062                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A872061                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Siberia                  Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+*Jupiter                 Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Louie                    Cat       Domestic Medium Hair               Neutered Male       1.00      2.00      
+*Velvet                  Cat       Domestic Shorthair                 Spayed Female       4.00      5.00      
+Cookie                   Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Beatrice                Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+Vespa                    Cat       Domestic Shorthair                 Spayed Female       2.00      3.00      
+*Gabriel                 Cat       Domestic Longhair                  Neutered Male       2.00      3.00      
+*Louis                   Cat       Siamese Mix                        Neutered Male       2.00      3.00      
+Marcelin                 Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A870513                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A868462                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Ghost                    Cat       Domestic Shorthair Mix             Neutered Male       9.00      10.00     
+Smokey                   Cat       Domestic Medium Hair               Neutered Male       2.00      3.00      
+*Mirabelle               Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+Ellie                    Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Snickers                 Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+*Sonny                   Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Calliope                 Cat       Domestic Shorthair                 Spayed Female       5.00      6.00      
+*Magpie                  Cat       Domestic Medium Hair Mix           Spayed Female       3.00      4.00      
+*Valentina               Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+Thor                     Cat       Domestic Shorthair                 Neutered Male       3.00      4.00      
+*Malcolm                 Cat       Domestic Shorthair                 Neutered Male       3.00      4.00      
+Bubbles                  Cat       Domestic Shorthair                 Spayed Female       2.00      3.00      
+A872331                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+*Venus                   Cat       Domestic Medium Hair               Spayed Female       1.00      2.00      
+A868460                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A868461                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A870872                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A870874                  Cat       Domestic Longhair                  Neutered Male       1.00      2.00      
+*Pheobe                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A870871                  Cat       Domestic Medium Hair               Neutered Male       1.00      2.00      
+A870505                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A870503                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A870509                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Edgar                   Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+*Betty                   Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Aspen                   Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+*Joey                    Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+*Venus                   Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A870352                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A870353                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A870512                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A872583                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A870354                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Socks                   Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+*Panda                   Cat       Domestic Shorthair                 Neutered Male       3.00      4.00      
+*Penelope                Cat       Domestic Shorthair                 Spayed Female       4.00      5.00      
+A872388                  Cat       Domestic Shorthair Mix             Spayed Female       1.00      2.00      
+*Rufus                   Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Monty                    Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+*Daisy                   Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+*Henry                   Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A872671                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A872699                  Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+A872472                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A872389                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A872672                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Precious                 Cat       Domestic Shorthair Mix             Spayed Female       1.00      2.00      
+Anya                     Cat       Domestic Medium Hair               Spayed Female       1.00      2.00      
+Isaac                    Cat       Domestic Shorthair                 Neutered Male       7.00      8.00      
+A872539                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A872458                  Cat       Domestic Longhair                  Spayed Female       1.00      2.00      
+A872457                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A861828                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A861829                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Sirtux                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A872689                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Verity                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Moon                    Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Stefan                  Cat       Domestic Shorthair                 Neutered Male       5.00      6.00      
+Stella                   Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+*Gini                    Cat       Domestic Shorthair                 Intact Female       1.00      2.00      
+A872897                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*O'Malley                Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+Bubba                    Cat       Domestic Shorthair                 Neutered Male       5.00      6.00      
+A870974                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A870975                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A872806                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A872468                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A872538                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Patson                   Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A870976                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Hercules                 Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Nala                     Cat       Siamese                            Spayed Female       4.00      5.00      
+Scrappy                  Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+Grayson                  Cat       Domestic Shorthair                 Neutered Male       5.00      6.00      
+*Cieli                   Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Jade                     Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Ren                      Cat       Domestic Shorthair Mix             Spayed Female       2.00      3.00      
+Stocky                   Cat       Domestic Shorthair Mix             Spayed Female       2.00      3.00      
+*Cream Puff              Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Cleopatra                Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Sticky Bun              Cat       Domestic Shorthair Mix             Neutered Male       5.00      6.00      
+A872895                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Blazer                  Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+A872133                  Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+A872923                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A872981                  Cat       Domestic Shorthair                 Spayed Female       2.00      3.00      
+*Sunset                  Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+A872921                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A872874                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Bubbles                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Gaia                     Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+A873114                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A873113                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+*Dove                    Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+A872922                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A872966                  Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+A873246                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Milo                     Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A872982                  Cat       Domestic Shorthair                 Neutered Male       3.00      4.00      
+Mercury                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Lily                     Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Elton                    Cat       Domestic Medium Hair               Neutered Male       1.00      2.00      
+A873047                  Cat       Domestic Shorthair                 Spayed Female       12.00     13.00     
+A873186                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Cheri                    Cat       Domestic Shorthair                 Spayed Female       7.00      8.00      
+A873182                  Cat       Domestic Shorthair                 Spayed Female       2.00      3.00      
+Belle Starr              Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Cotton                   Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Hercules                 Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Syd Barrett              Cat       Domestic Shorthair                 Neutered Male       7.00      8.00      
+*Somersault              Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+Rita                     Cat       Domestic Longhair                  Intact Female       1.00      2.00      
+Kai                      Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+A872973                  Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+*Harriet                 Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+Achilles                 Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+Sawyer                   Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+*Bubba                   Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+*Folklore                Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A873372                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Cheeto                   Cat       Domestic Shorthair Mix             Neutered Male       1.00      2.00      
+A873500                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+*Beebop                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A873375                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+A873526                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Harriet                  Cat       Domestic Shorthair                 Intact Female       1.00      2.00      
+A873522                  Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+Chanel                   Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+A873412                  Cat       Domestic Shorthair Mix             Spayed Female       1.00      2.00      
+A873524                  Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+*Queso                   Cat       Domestic Shorthair                 Neutered Male       2.00      3.00      
+Chiquito                 Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+*Elsa                    Cat       Snowshoe Mix                       Spayed Female       1.00      2.00      
+*Cosmo                   Cat       Domestic Shorthair                 Neutered Male       1.00      2.00      
+*Aster                   Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Olive                    Cat       Domestic Shorthair Mix             Spayed Female       1.00      2.00      
+A873477                  Cat       Siamese                            Neutered Male       2.00      3.00      
+Daisy                    Cat       Domestic Shorthair                 Spayed Female       1.00      2.00      
+Sky                      Cat       Domestic Shorthair                 Spayed Female       3.00      4.00      
+*Melbourne               Dog       Australian Shepherd Mix            Neutered Male       1.00      2.00      
+*Lady Bird               Dog       Blue Lacy Mix                      Spayed Female       5.00      6.00      
+Skye                     Dog       Labrador Retriever                 Spayed Female       1.00      2.00      
+Lola                     Dog       American Staffordshire Terrier/MastiffSpayed Female       10.00     11.00     
+A871593                  Dog       Labrador Retriever Mix             Neutered Male       1.00      2.00      
+Finn                     Dog       Pit Bull                           Neutered Male       1.00      2.00      
+A871602                  Dog       German Shepherd                    Neutered Male       1.00      2.00      
+Chocoa                   Dog       Labrador Retriever/Australian Cattle DogSpayed Female       1.00      2.00      
+Ollie                    Dog       Labrador Retriever/Australian Cattle DogNeutered Male       1.00      2.00      
+A871598                  Dog       Miniature Schnauzer Mix            Neutered Male       1.00      2.00      
+*Portabella              Dog       Pit Bull                           Spayed Female       3.00      4.00      
+Bocephus                 Dog       Dogo Argentino Mix                 Neutered Male       2.00      3.00      
+Bonnie                   Dog       German Shepherd Mix                Spayed Female       1.00      2.00      
+*Buddy                   Dog       Alaskan Husky/German Shepherd      Neutered Male       2.00      3.00      
+Bruno                    Dog       German Shepherd                    Neutered Male       2.00      3.00      
+*Rue                     Dog       Belgian Malinois                   Spayed Female       2.00      3.00      
+*Sparkle                 Dog       Labrador Retriever/Australian Cattle DogSpayed Female       1.00      2.00      
+Anya                     Dog       Siberian Husky Mix                 Spayed Female       3.00      4.00      
+Celia                    Dog       Black Mouth Cur Mix                Spayed Female       1.00      2.00      
+Hulk                     Dog       Australian Cattle Dog/Siberian HuskyNeutered Male       4.00      5.00      
+Sandy                    Dog       English Coonhound Mix              Spayed Female       4.00      5.00      
+Lucky                    Dog       Basset Hound                       Neutered Male       4.00      5.00      
+*Jolly                   Dog       Labrador Retriever/Australian Cattle DogSpayed Female       1.00      2.00      
+A871599                  Dog       Miniature Schnauzer Mix            Neutered Male       1.00      2.00      
+Sir Kit                  Dog       German Shepherd Mix                Intact Female       1.00      2.00      
+*Brisbane                Dog       Australian Shepherd Mix            Spayed Female       1.00      2.00      
+Angel                    Dog       Border Collie Mix                  Spayed Female       1.00      2.00      
+*Min                     Dog       Pit Bull/Chinese Sharpei           Spayed Female       2.00      3.00      
+*Pickle                  Dog       Australian Cattle Dog              Neutered Male       1.00      2.00      
+Apollo                   Dog       Labrador Retriever Mix             Neutered Male       1.00      2.00      
+A871430                  Dog       Dachshund Wirehair Mix             Neutered Male       1.00      2.00      
+A871429                  Dog       Dachshund Mix                      Spayed Female       1.00      2.00      
+A871288                  Dog       Pointer Mix                        Spayed Female       1.00      2.00      
+A871600                  Dog       Miniature Schnauzer Mix            Neutered Male       1.00      2.00      
+*Spike                   Dog       German Shepherd                    Neutered Male       3.00      4.00      
+A871801                  Dog       Jack Russell Terrier/Chihuahua ShorthairNeutered Male       1.00      2.00      
+Smokey                   Dog       Dachshund/Chihuahua Shorthair      Neutered Male       1.00      2.00      
+A871768                  Dog       Dachshund/Chihuahua Shorthair      Neutered Male       1.00      2.00      
+Echo                     Dog       Siberian Husky                     Neutered Male       3.00      4.00      
+Sofie                    Dog       Dachshund Mix                      Spayed Female       1.00      2.00      
+Smokey                   Dog       Belgian Malinois                   Neutered Male       3.00      4.00      
+Nico                     Dog       Pit Bull/German Shepherd           Neutered Male       1.00      2.00      
+Tara                     Dog       Labrador Retriever Mix             Spayed Female       1.00      2.00      
+*Emma                    Dog       Plott Hound Mix                    Spayed Female       3.00      4.00      
+Reya                     Dog       Labrador Retriever Mix             Spayed Female       8.00      9.00      
+Panda Bear               Dog       Pit Bull Mix                       Neutered Male       1.00      2.00      
+Lobo                     Dog       German Shepherd                    Neutered Male       2.00      3.00      
+Benny                    Dog       Labrador Retriever Mix             Neutered Male       1.00      2.00      
+*Thyme                   Dog       Australian Cattle Dog/Labrador RetrieverNeutered Male       1.00      2.00      
+Bruno                    Dog       Labrador Retriever/Australian Cattle DogNeutered Male       1.00      2.00      
+Winter                   Dog       Labrador Retriever Mix             Spayed Female       1.00      2.00      
+Draco                    Dog       Labrador Retriever Mix             Neutered Male       1.00      2.00      
+A871877                  Dog       Labrador Retriever                 Neutered Male       1.00      2.00      
+Addie                    Dog       Labrador Retriever Mix             Spayed Female       1.00      2.00      
+*Prince                  Dog       Feist Mix                          Neutered Male       1.00      2.00      
+Rain Lily                Dog       Border Collie                      Spayed Female       2.00      3.00      
+*Delia                   Dog       Pit Bull Mix                       Spayed Female       1.00      2.00      
+*Draper                  Dog       Australian Cattle Dog Mix          Neutered Male       1.00      2.00      
+*Doni                    Dog       Dachshund/Labrador Retriever       Neutered Male       3.00      4.00      
+Luna                     Dog       Siberian Husky                     Spayed Female       3.00      4.00      
+Rico Suave               Dog       American Bulldog Mix               Neutered Male       7.00      8.00      
+Chance                   Dog       Australian Shepherd Mix            Intact Male         1.00      2.00      
+A871605                  Dog       Australian Shepherd Mix            Spayed Female       1.00      2.00      
+*Jan                     Dog       Flat Coat Retriever Mix            Spayed Female       2.00      3.00      
+*Wilma                   Dog       German Shepherd                    Spayed Female       7.00      8.00      
+*Pia                     Dog       Pit Bull Mix                       Spayed Female       1.00      2.00      
+*Ellie                   Dog       Pit Bull Mix                       Spayed Female       1.00      2.00      
+*Bowser                  Dog       German Shepherd                    Neutered Male       2.00      3.00      
+Balto                    Dog       Alaskan Malamute Mix               Neutered Male       3.00      4.00      
+Mars                     Dog       Labrador Retriever Mix             Spayed Female       1.00      2.00      
+Luca                     Dog       Pointer Mix                        Neutered Male       1.00      2.00      
+Reign                    Dog       German Shepherd Mix                Spayed Female       2.00      3.00      
+Max                      Dog       Great Pyrenees Mix                 Neutered Male       2.00      3.00      
+*Keanu                   Dog       Labrador Retriever                 Neutered Male       1.00      2.00      
+*Triton                  Dog       German Shepherd Mix                Neutered Male       3.00      4.00      
+Daisy                    Dog       Labrador Retriever Mix             Spayed Female       1.00      2.00      
+*Caspian                 Dog       Siberian Husky/German Shepherd     Neutered Male       1.00      2.00      
+*Cher                    Dog       Queensland Heeler/Pit Bull         Spayed Female       4.00      5.00      
+*Brownie                 Dog       Pit Bull/Labrador Retriever        Spayed Female       3.00      4.00      
+A872070                  Dog       Chihuahua Shorthair Mix            Spayed Female       1.00      2.00      
+*Potato                  Dog       Pit Bull                           Spayed Female       2.00      3.00      
+*Roxy                    Dog       German Shepherd                    Spayed Female       2.00      3.00      
+Bonita                   Dog       Chihuahua Longhair                 Spayed Female       2.00      3.00      
+Elvis                    Dog       Doberman Pinsch Mix                Neutered Male       2.00      3.00      
+*Phoenix                 Dog       Pointer/Alaskan Husky              Spayed Female       1.00      2.00      
+*Maddie                  Dog       Siberian Husky/German Shepherd     Spayed Female       1.00      2.00      
+Nino                     Dog       Border Terrier Mix                 Neutered Male       1.00      2.00      
+Grim                     Dog       German Shepherd                    Neutered Male       1.00      2.00      
+A871992                  Dog       Border Terrier Mix                 Spayed Female       1.00      2.00      
+Onyx                     Dog       Chihuahua Shorthair Mix            Neutered Male       1.00      2.00      
+*Aspen                   Dog       Labrador Retriever/Great Pyrenees  Spayed Female       2.00      3.00      
+*Snow                    Dog       Labrador Retriever                 Spayed Female       1.00      2.00      
+Layla                    Dog       Labrador Retriever/Chinese Sharpei Spayed Female       1.00      2.00      
+Camilla                  Dog       Pit Bull Mix                       Spayed Female       10.00     11.00     
+Nora                     Dog       Doberman Pinsch                    Spayed Female       2.00      3.00      
+Lola                     Dog       German Shepherd                    Spayed Female       4.00      5.00      
+*Pisces                  Dog       German Shorthair Pointer           Spayed Female       3.00      4.00      
+*Tonia                   Dog       Pit Bull Mix                       Spayed Female       4.00      5.00      
+Peanut                   Dog       Chihuahua Shorthair Mix            Spayed Female       9.00      10.00     
+Dino                     Dog       Labrador Retriever Mix             Neutered Male       2.00      3.00      
+A871389                  Dog       Labrador Retriever Mix             Spayed Female       1.00      2.00      
+*Slider                  Dog       Anatol Shepherd Mix                Neutered Male       1.00      2.00      
+Stormy                   Dog       Belgian Malinois                   Spayed Female       2.00      3.00      
+*Basil                   Dog       Australian Cattle Dog/Labrador RetrieverNeutered Male       1.00      2.00      
+Buster                   Dog       Belgian Malinois                   Neutered Male       1.00      2.00      
+*Gemma                   Dog       Pit Bull                           Spayed Female       1.00      2.00      
+*Quilt                   Dog       Australian Shepherd Mix            Spayed Female       1.00      2.00      
+A872239                  Dog       Yorkshire Terrier Mix              Spayed Female       2.00      3.00      
+*Trooper                 Dog       Australian Cattle Dog              Neutered Male       1.00      2.00      
+*Phaedra                 Dog       Australian Kelpie Mix              Spayed Female       2.00      3.00      
+Chevy                    Dog       Australian Cattle Dog Mix          Neutered Male       1.00      2.00      
+Shadow                   Dog       Chihuahua Shorthair                Spayed Female       2.00      3.00      
+Kong                     Dog       Pit Bull/Labrador Retriever        Neutered Male       3.00      4.00      
+Pippi                    Dog       Chihuahua Longhair                 Intact Female       7.00      8.00      
+*Isaiah                  Dog       Pit Bull Mix                       Neutered Male       3.00      4.00      
+*Mowgli                  Dog       Pit Bull                           Neutered Male       1.00      2.00      
+Henry                    Dog       Dachshund/Doberman Pinsch          Neutered Male       1.00      2.00      
+*Dominic                 Dog       Pit Bull                           Neutered Male       3.00      4.00      
+*Walter                  Dog       Labrador Retriever Mix             Neutered Male       9.00      10.00     
+*Darwin                  Dog       Chihuahua Shorthair/Dachshund      Neutered Male       5.00      6.00      
+*Lavena                  Dog       Labrador Retriever Mix             Spayed Female       1.00      2.00      
+*Bingo                   Dog       Australian Cattle Dog              Neutered Male       1.00      2.00      
+L T                      Dog       Australian Cattle Dog              Neutered Male       3.00      4.00      
+*Peter Pan               Dog       Anatol Shepherd Mix                Neutered Male       2.00      3.00      
+Millie                   Dog       Cairn Terrier                      Spayed Female       2.00      3.00      
+*Riley                   Dog       German Shepherd/Labrador Retriever Neutered Male       3.00      4.00      
+*Brosdan                 Dog       German Shepherd Mix                Neutered Male       1.00      2.00      
+Tigger                   Dog       Boxer Mix                          Neutered Male       7.00      8.00      
+Lil Behr                 Dog       Cairn Terrier/Yorkshire Terrier    Neutered Male       11.00     12.00     
+Nikita                   Dog       Yorkshire Terrier/Border Terrier   Spayed Female       10.00     11.00     
+*Barb                    Dog       Border Collie Mix                  Spayed Female       1.00      2.00      
+*Zeus                    Dog       Siberian Husky                     Neutered Male       4.00      5.00      
+Scooby                   Dog       Labrador Retriever Mix             Neutered Male       6.00      7.00      
+*Dalia                   Dog       Australian Cattle Dog Mix          Spayed Female       3.00      4.00      
+Jackson                  Dog       Australian Cattle Dog Mix          Neutered Male       2.00      3.00      
+*Bing Bong               Dog       Boxer Mix                          Spayed Female       3.00      4.00      
+*Koda                    Dog       Pit Bull                           Neutered Male       3.00      4.00      
+Dottie                   Dog       Pointer/Australian Cattle Dog      Spayed Female       1.00      2.00      
+*Finnegan                Dog       Pit Bull                           Neutered Male       5.00      6.00      
+*Woody                   Dog       Pit Bull Mix                       Neutered Male       1.00      2.00      
+Maisy                    Dog       Pit Bull Mix                       Spayed Female       5.00      6.00      
+Bolt                     Dog       Border Collie Mix                  Neutered Male       1.00      2.00      
+*Dawn                    Dog       Australian Cattle Dog/Alaskan HuskySpayed Female       1.00      2.00      
+*Buzz                    Dog       Pit Bull Mix                       Neutered Male       1.00      2.00      
+Addie                    Dog       Labrador Retriever Mix             Spayed Female       1.00      2.00      
+*Tetra                   Dog       Border Collie Mix                  Neutered Male       1.00      2.00      
+*Gourami                 Dog       Border Collie Mix                  Neutered Male       1.00      2.00      
+*Peter                   Dog       Flat Coat Retriever Mix            Neutered Male       2.00      3.00      
+*Jerry                   Dog       Pit Bull                           Neutered Male       3.00      4.00      
+*Minnow                  Dog       Border Collie Mix                  Neutered Male       1.00      2.00      
+*Meatball                Dog       American Staffordshire Terrier Mix Neutered Male       1.00      2.00      
+*Tooni                   Dog       Labrador Retriever Mix             Neutered Male       2.00      3.00      
+*James                   Dog       Jack Russell Terrier/Pointer       Neutered Male       1.00      2.00      
+*Cody                    Dog       Pit Bull/Australian Cattle Dog     Neutered Male       2.00      3.00      
+*Corbin                  Dog       Pit Bull Mix                       Neutered Male       1.00      2.00      
+*Mercy                   Dog       Pit Bull Mix                       Spayed Female       3.00      4.00      
+Bandit                   Dog       Australian Shepherd Mix            Neutered Male       2.00      3.00      
+Sophie                   Dog       Labrador Retriever Mix             Spayed Female       5.00      6.00      
+Moose                    Dog       Australian Cattle Dog/Labrador RetrieverNeutered Male       1.00      2.00      
+*Calendula               Dog       Chihuahua Shorthair/Labrador RetrieverNeutered Male       1.00      2.00      
+A872526                  Dog       Alaskan Husky/German Shepherd      Spayed Female       1.00      2.00      
+Fluffy                   Dog       Chihuahua Longhair                 Spayed Female       1.00      2.00      
+Ogan                     Dog       Chihuahua Shorthair                Neutered Male       1.00      2.00      
+*Tinsely                 Dog       Siberian Husky Mix                 Spayed Female       3.00      4.00      
+A872582                  Dog       Labrador Retriever Mix             Neutered Male       1.00      2.00      
+*Ransom                  Dog       Doberman Pinsch                    Neutered Male       2.00      3.00      
+Charlie                  Dog       Labrador Retriever Mix             Neutered Male       1.00      2.00      
+*Marigold                Dog       Chihuahua Shorthair/Labrador RetrieverSpayed Female       1.00      2.00      
+*Rudy                    Dog       Chow Chow Mix                      Neutered Male       3.00      4.00      
+A869745                  Dog       Australian Shepherd Mix            Spayed Female       1.00      2.00      
+*Harper                  Dog       Anatol Shepherd/Great Dane         Spayed Female       1.00      2.00      
+Fluffy                   Dog       Great Pyrenees                     Neutered Male       3.00      4.00      
+Davey                    Dog       Labrador Retriever Mix             Neutered Male       6.00      7.00      
+*Buddy                   Dog       Labrador Retriever Mix             Neutered Male       1.00      2.00      
+*Kennedy                 Dog       Siberian Husky/German Shepherd     Spayed Female       1.00      2.00      
+Max                      Dog       Akita Mix                          Neutered Male       1.00      2.00      
+*Black Jack              Dog       Labrador Retriever Mix             Neutered Male       1.00      2.00      
+Jackson                  Dog       Border Terrier/Beagle              Neutered Male       2.00      3.00      
+*Muffin                  Dog       Australian Cattle Dog              Spayed Female       1.00      2.00      
+A872503                  Dog       Border Terrier/Beagle              Neutered Male       1.00      2.00      
+*Lando                   Dog       Australian Cattle Dog/Pit Bull     Neutered Male       1.00      2.00      
+*Akua                    Dog       Doberman Pinsch Mix                Spayed Female       1.00      2.00      
+*Burt                    Dog       Pit Bull Mix                       Neutered Male       3.00      4.00      
+*Cabo                    Dog       Labrador Retriever                 Neutered Male       1.00      2.00      
+Koa                      Dog       Blue Lacy Mix                      Neutered Male       2.00      3.00      
+*Alesia                  Dog       Pit Bull Mix                       Intact Female       1.00      2.00      
+Estrella                 Dog       Chihuahua Shorthair                Spayed Female       2.00      3.00      
+*Leroy                   Dog       Blue Lacy Mix                      Neutered Male       2.00      3.00      
+Muneca                   Dog       Chihuahua Shorthair/Labrador RetrieverSpayed Female       1.00      2.00      
+Kimchi                   Dog       Labrador Retriever/Dutch Shepherd  Spayed Female       1.00      2.00      
+Shirley                  Dog       German Shepherd Mix                Spayed Female       3.00      4.00      
+Mila                     Dog       Labrador Retriever Mix             Spayed Female       1.00      2.00      
+Loki                     Dog       Siberian Husky                     Neutered Male       1.00      2.00      
+*Yoyo                    Dog       Australian Kelpie Mix              Neutered Male       3.00      4.00      
+Sofi                     Dog       Australian Cattle Dog              Spayed Female       3.00      4.00      
+A872479                  Dog       Queensland Heeler Mix              Spayed Female       1.00      2.00      
+Lina                     Dog       German Shepherd                    Spayed Female       4.00      5.00      
+Eboni                    Dog       Treeing Walker Coonhound Mix       Spayed Female       1.00      2.00      
+Cinnamon                 Dog       Chihuahua Shorthair/Labrador RetrieverNeutered Male       1.00      2.00      
+Belinda                  Dog       Great Pyrenees                     Spayed Female       1.00      2.00      
+Oreo                     Dog       Pit Bull                           Spayed Female       2.00      3.00      
+Cohen                    Dog       Pit Bull                           Neutered Male       3.00      4.00      
+*Stella                  Dog       German Shepherd Mix                Intact Female       3.00      4.00      
+Parker                   Dog       American Pit Bull Terrier Mix      Neutered Male       3.00      4.00      
+*Minnow                  Dog       Border Collie Mix                  Spayed Female       1.00      2.00      
+*Dan                     Dog       Pit Bull Mix                       Neutered Male       2.00      3.00      
+A872736                  Dog       Scottish Deerhound                 Spayed Female       1.00      2.00      
+*Eartha                  Dog       Labrador Retriever/Australian Cattle DogSpayed Female       1.00      2.00      
+*Ramona                  Dog       Boxer Mix                          Spayed Female       3.00      4.00      
+*Fred                    Dog       Labrador Retriever Mix             Neutered Male       2.00      3.00      
+Sunny                    Dog       Pit Bull                           Neutered Male       14.00     15.00     
+*Hawkeye                 Dog       Belgian Malinois                   Neutered Male       2.00      3.00      
+*Mars                    Dog       Pit Bull Mix                       Neutered Male       9.00      10.00     
+A872067                  Dog       Labrador Retriever Mix             Spayed Female       1.00      2.00      
+*Molly                   Dog       Border Collie Mix                  Spayed Female       1.00      2.00      
+*Carbon                  Dog       Labrador Retriever                 Neutered Male       3.00      4.00      
+*Goose                   Dog       Chihuahua Longhair                 Neutered Male       1.00      2.00      
+Jericho                  Dog       Australian Cattle Dog              Neutered Male       3.00      4.00      
+*Duck                    Dog       Chihuahua Longhair Mix             Neutered Male       1.00      2.00      
+*Robin                   Dog       Chihuahua Longhair Mix             Spayed Female       1.00      2.00      
+Duke                     Dog       Pit Bull Mix                       Neutered Male       3.00      4.00      
+*Martin                  Dog       Chihuahua Longhair Mix             Neutered Male       1.00      2.00      
+*Frida Kahlo             Dog       Boxer/Pit Bull                     Spayed Female       1.00      2.00      
+Freda                    Dog       Pit Bull                           Intact Female       3.00      4.00      
+*Sunflower               Dog       Chihuahua Shorthair                Spayed Female       3.00      4.00      
+*Kylie                   Dog       Pointer Mix                        Spayed Female       3.00      4.00      
+*Bracker                 Dog       Rhod Ridgeback/German Shepherd     Neutered Male       1.00      2.00      
+*Raven                   Dog       Chihuahua Longhair Mix             Spayed Female       1.00      2.00      
+*Finch                   Dog       Chihuahua Longhair Mix             Neutered Male       1.00      2.00      
+*Mr. Swan                Dog       Pit Bull Mix                       Neutered Male       3.00      4.00      
+Ridley                   Dog       Pit Bull                           Spayed Female       2.00      3.00      
+Rosa                     Dog       Labrador Retriever Mix             Spayed Female       10.00     11.00     
+*Bina                    Dog       Pit Bull                           Spayed Female       3.00      4.00      
+A872775                  Dog       Chihuahua Shorthair                Neutered Male       2.00      3.00      
+A872751                  Dog       Pit Bull                           Spayed Female       2.00      3.00      
+Bailey                   Dog       American Bulldog                   Spayed Female       5.00      6.00      
+Wonder                   Dog       Australian Cattle Dog Mix          Spayed Female       2.00      3.00      
+*Nana                    Dog       Anatol Shepherd Mix                Spayed Female       8.00      9.00      
+*Bruce                   Dog       Bull Terrier                       Neutered Male       2.00      3.00      
+*Grackle                 Dog       Chihuahua Longhair Mix             Neutered Male       1.00      2.00      
+A873086                  Dog       German Shepherd Mix                Neutered Male       1.00      2.00      
+A872844                  Dog       Dachshund/Pit Bull                 Neutered Male       2.00      3.00      
+Mia                      Dog       Labrador Retriever                 Spayed Female       1.00      2.00      
+A872720                  Dog       German Shepherd Mix                Neutered Male       1.00      2.00      
+Big Papi                 Dog       Pit Bull                           Neutered Male       1.00      2.00      
+*Madam Z                 Dog       Australian Cattle Dog Mix          Spayed Female       1.00      2.00      
+*Wren                    Dog       Chihuahua Longhair                 Spayed Female       3.00      4.00      
+Max                      Dog       German Shepherd                    Neutered Male       4.00      5.00      
+A873162                  Dog       Chihuahua Shorthair Mix            Neutered Male       3.00      4.00      
+A873159                  Dog       Chihuahua Shorthair                Neutered Male       2.00      3.00      
+*Crunchy                 Dog       Pit Bull                           Spayed Female       1.00      2.00      
+*Zoey                    Dog       Australian Cattle Dog              Spayed Female       3.00      4.00      
+*Mary                    Dog       Dachshund Wirehair Mix             Spayed Female       4.00      5.00      
+*Poppy                   Dog       Labrador Retriever Mix             Spayed Female       5.00      6.00      
+Harmony                  Dog       Pit Bull Mix                       Spayed Female       1.00      2.00      
+A873228                  Dog       Alaskan Klee Kai Mix               Neutered Male       1.00      2.00      
+A873311                  Dog       German Wirehaired Pointer/Labrador RetrieverNeutered Male       1.00      2.00      
+Jester                   Dog       German Shepherd Mix                Neutered Male       1.00      2.00      
+A873087                  Dog       German Shepherd Mix                Neutered Male       1.00      2.00      
+Nina                     Dog       Pit Bull Mix                       Spayed Female       2.00      3.00      
+Puppy                    Dog       Papillon Mix                       Spayed Female       4.00      5.00      
+Chispas                  Dog       Labrador Retriever                 Spayed Female       1.00      2.00      
+A873160                  Dog       Doberman Pinsch/Dachshund          Spayed Female       1.00      2.00      
+A873313                  Dog       Labrador Retriever Mix             Neutered Male       1.00      2.00      
+Kaliper                  Dog       Siberian Husky Mix                 Neutered Male       2.00      3.00      
+*Swayze                  Dog       Catahoula Mix                      Neutered Male       1.00      2.00      
+Oleander                 Dog       Chihuahua Shorthair/Labrador RetrieverNeutered Male       1.00      2.00      
+*Mason                   Dog       Bloodhound/German Shepherd         Neutered Male       3.00      4.00      
+*Randy                   Dog       Labrador Retriever/Siberian Husky  Neutered Male       6.00      7.00      
+*Flag                    Dog       Pit Bull                           Neutered Male       3.00      4.00      
+Tank                     Dog       Pit Bull Mix                       Neutered Male       9.00      10.00     
+*Archie                  Dog       Staffordshire/Pit Bull             Neutered Male       1.00      2.00      
+Magic                    Dog       Labrador Retriever Mix             Neutered Male       7.00      8.00      
+*Kanga                   Dog       German Shepherd Mix                Neutered Male       1.00      2.00      
+*Seymour                 Dog       Labrador Retriever/Chinese Sharpei Neutered Male       1.00      2.00      
+*Bacon                   Dog       Pointer Mix                        Neutered Male       1.00      2.00      
+Coco                     Dog       Pit Bull Mix                       Spayed Female       1.00      2.00      
+*Lemon Drop              Dog       Black Mouth Cur Mix                Spayed Female       2.00      3.00      
+Maximus                  Dog       Pit Bull Mix                       Neutered Male       7.00      8.00      
+Mist                     Dog       Siberian Husky Mix                 Spayed Female       2.00      3.00      
+*Lancelot                Dog       Akita/Siberian Husky               Neutered Male       4.00      5.00      
+Adelaide                 Dog       Great Pyrenees Mix                 Spayed Female       1.00      2.00      
+Reyna                    Dog       Pit Bull Mix                       Spayed Female       2.00      3.00      
+*Jazzie                  Dog       German Shepherd Mix                Spayed Female       1.00      2.00      
+Cleopatra                Dog       Standard Schnauzer Mix             Spayed Female       1.00      2.00      
+A873408                  Dog       Blue Lacy                          Spayed Female       1.00      2.00      
+A873473                  Dog       Pit Bull                           Neutered Male       1.00      2.00      
+A873401                  Dog       Blue Lacy Mix                      Neutered Male       1.00      2.00      
+A873493                  Dog       Labrador Retriever Mix             Spayed Female       1.00      2.00      
+Asiago                   Dog       Pit Bull                           Neutered Male       3.00      4.00      
+Kira                     Dog       Great Pyrenees Mix                 Spayed Female       1.00      2.00      
+Ace                      Dog       Alaskan Husky                      Neutered Male       4.00      5.00      
+*Frog                    Dog       Black/Tan Hound Mix                Neutered Male       2.00      3.00      
+*Carl                    Other     Guinea Pig                         Intact Male         1.00      2.00      
+*Lenny                   Other     Guinea Pig                         Intact Male         1.00      2.00      
+A872428                  Other     Rabbit Sh                          Intact Female       4.00      5.00      
+A872076                  Other     Lizard                             Unknown             1.00      2.00      
+A872077                  Other     Lizard                             Unknown             1.00      2.00      
+*Hugs                    Other     Angora-English                     Intact Female       1.00      2.00      
+*Captain Fitzwilliam     Other     Lop-English Mix                    Intact Male         3.00      4.00      
+*Priscilla               Other     Rabbit Sh                          Intact Female       1.00      2.00      
+Oyster                   Other     Rabbit Lh                          Intact Male         1.00      2.00      
+Gilbert                  Other     Guinea Pig                         Intact Male         3.00      4.00      
+*Percy                   Other     Rabbit Sh Mix                      Neutered Male       3.00      4.00      
+
+
+
